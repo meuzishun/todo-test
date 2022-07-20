@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Basic Usage of Firebase
+
+This project outlines a quick and simple use of Google's [Firebase](https://firebase.google.com/).\
+Run `npm install firebase` (already completed for this project) to get started.\
+See comments and code in App.js for further details.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
